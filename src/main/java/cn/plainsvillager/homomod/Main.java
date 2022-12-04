@@ -12,6 +12,6 @@ public class Main implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		LOGGER.info("Hello Fabric world!");
-		ModItems.registerItems();
+		ModItems.registerItems();    // 知道什么叫一劳永逸了吧
 	}
 }
