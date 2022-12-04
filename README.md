@@ -15,10 +15,12 @@ This template is available under the CC0 license. Feel free to learn from it and
 
 ## do some for us做一些事
 
-提交一个issue
+- 提交一个issue
 
-提交一个pull request
+- 提交一个pull request
 
-新建一个分支
+- 新建一个分支
 
-当前main版本：0.1
+- 当前main版本：0.1
+
+## 版本更新日志
