@@ -1,5 +1,6 @@
 package cn.plainsvillager.homomod.items;
 
+import cn.plainsvillager.homomod.items.b.HomoBaseFoodItem;
 import cn.plainsvillager.homomod.items.foods.ModFoodComponents;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.minecraft.item.BlockItem;
@@ -21,7 +22,7 @@ public class ModItems {
             包括：HOMO_BASE_FOOD（homoの初级食物）
      */
     public static class ModFoodItems {
-        public static final Item HOMO_BASE_FOOD = new Item(new FabricItemSettings().food(ModFoodComponents.HOMO_BASE_FOOD_COMPONENT).fireproof().maxCount(45).rarity(Rarity.UNCOMMON));
+        public static final Item HOMO_BASE_FOOD = new HomoBaseFoodItem(new FabricItemSettings().food(ModFoodComponents.HOMO_BASE_FOOD_COMPONENT).fireproof().maxCount(45).rarity(Rarity.UNCOMMON));
     }
 
 
