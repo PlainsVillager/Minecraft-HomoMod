@@ -10,11 +10,11 @@
     "Mr.TianYeHaoER"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://space.bilibili.com/515204296",
+    "sources": "https://gitee.com/plainsvillager/minecraft-homo-mod"
   },
 
-  "license": "CC0-1.0",
+  "license": "MIT",
   "icon": "assets/homomod/icon.png",
 
   "environment": "*",
