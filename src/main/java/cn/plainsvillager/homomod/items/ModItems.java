@@ -34,7 +34,7 @@ public class ModItems {
      */
     public static void registerItems() {
         /*
-            参照下面的格式
+            参照下面的格式来进行注册
          */
         register(new Identifier(MOD_ID,"homo_base_food"), ModFoodItems.HOMO_BASE_FOOD);
     }
