@@ -10,7 +10,10 @@ import net.minecraft.util.Rarity;
 import net.minecraft.util.registry.Registry;
 
 import static cn.plainsvillager.homomod.Main.MOD_ID;
-
+/**
+    @ClassName: ModItems
+    @role: reg mod items
+*/
 public class ModItems {
     public static class ModBaseItems {
 
