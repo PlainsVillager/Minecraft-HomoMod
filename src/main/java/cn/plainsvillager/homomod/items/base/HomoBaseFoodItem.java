@@ -1,4 +1,4 @@
-package cn.plainsvillager.homomod.items.b;
+package cn.plainsvillager.homomod.items.base;
 
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.item.Item;
